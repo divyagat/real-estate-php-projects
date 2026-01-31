@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>SatyamKharghar</title>
+
+    <link rel="icon" type="image/png" href="img/image.png">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="overlay"></div>
+
+    <div class="page-wrapper">
+        <div class="form-card">
+            <h2>SatyamKharghar</h2>
+            <p class="sub-text">Luxury Living in Kharghar</p>
+
+            <form action="submit.php" method="POST">
+
+                <div class="input-group">
+                    <input type="text" name="name" required>
+                    <label>Full Name</label>
+                </div>
+
+                <div class="input-group">
+                    <input type="email" name="email" required>
+                    <label>Email Address</label>
+                </div>
+
+                <div class="input-group">
+                    <input type="tel" name="phone" maxlength="10" pattern="[0-9]{10}" required>
+                    <label>Phone Number</label>
+                </div>
+
+                <div class="input-group">
+                    <select name="project" required>
+                        <option value=""></option>
+                        <option value="Satyam Valencia">Satyam Valencia</option>
+                        <option value="Satyam Altura">Satyam Altura</option>
+                        <option value="Satyam Seasons">Satyam Seasons</option>
+                        <option value="Downtown Avenue">Downtown Avenue</option>
+                        <option value="Gami Satyam Business Avenue">Gami Satyam Business Avenue</option>
+                        <option value="Gami Satyam Palacio">Gami Satyam Palacio</option>
+                        <option value="Satyam Stella">Satyam Stella</option>
+                        <option value="Satyam Surya Manhattan">Satyam Surya Manhattan</option>
+                        <option value="Satyam Sicilia">Satyam Sicilia</option>
+                        <option value="The Elements">The Elements</option>
+                        <option value="Gami Satyam Skyscape">Gami Satyam Skyscape</option>
+                    </select>
+                    <label>Select Project</label>
+                </div>
+
+                <div class="input-group">
+                    <select name="interested_in" required>
+                        <option value=""></option>
+                        <option value="2 BHK">2 BHK</option>
+                        <option value="3 BHK">3 BHK</option>
+                        <option value="4 BHK">4 BHK</option>
+                    </select>
+                    <label>Interested In</label>
+                </div>
+
+                <div class="input-group">
+                    <select name="budget" required>
+                        <option value=""></option>
+                        <option value="50-70 Lakh">50 – 70 Lakh</option>
+                        <option value="80-1 Cr">80 – 1 Cr</option>
+                        <option value="2 Cr+">2 Cr+</option>
+                        <option value="Not Decided">Not Decided</option>
+                    </select>
+                    <label>Budget</label>
+                </div>
+
+                <button type="submit">Submit Enquiry</button>
+            </form>
+        </div>
+    </div>
+
+</body>
+
+</html>

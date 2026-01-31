@@ -1,0 +1,187 @@
+2026-01-07 12:21:11
+Payload: Array
+(
+    [Name] => Sj test
+    [Mobile] => 6748963568
+    [Email] => test1@gmail.com
+    [ProjectName] => Gami Satyam Business Avenue
+    [InterestedIn] => 3 BHK
+    [Budget] => 80-1cr Lakh
+    [Remark] => Location: Localhost, Visitor IP: ::1, Lead Location: Localhost
+)
+
+HTTP Code: 200
+cURL Error: 
+Response: Successful, API mapping is missing
+-------------------------
+2026-01-07 12:23:42
+Payload: Array
+(
+    [first_name] => Sj
+    [last_name] => test
+    [mobile] => 8754647356
+    [email] => test1@gmail.com
+    [project] => Satyam Seasons
+    [interested_in] => 3 BHK
+    [budget] => 80-1cr Lakh
+    [remark] => Location: Localhost, Visitor IP: ::1, Lead Location: Localhost
+)
+
+HTTP Code: 200
+cURL Error: 
+Response: Successful, API mapping is missing
+-------------------------
+2026-01-07 12:26:49
+Payload: Array
+(
+    [first_name] => Sdj
+    [last_name] => test
+    [mobile] => 6837536547
+    [email] => test9@gmail.com
+    [project] => Satyam Stella
+    [interested_in] => Satyam Stella
+    [budget] => 80-1cr Lakh
+    [remark] => Name: Sdj test
+Email: test9@gmail.com
+Phone: 6837536547
+Project: Satyam Stella
+Interested In: 2 BHK
+Budget: 80-1cr Lakh
+Visitor IP: ::1
+Location: Localhost
+
+)
+
+HTTP Code: 200
+cURL Error: 
+Response: Successful, API mapping is missing
+-------------------------
+2026-01-07 12:27:27
+Payload: Array
+(
+    [first_name] => Sdj
+    [last_name] => test
+    [mobile] => 6837536547
+    [email] => test9@gmail.com
+    [project] => Satyam Stella
+    [interested_in] => Satyam Stella
+    [budget] => 80-1cr Lakh
+    [remark] => Full Name: Sdj test
+Email: test9@gmail.com
+Phone: 6837536547
+Project Selected: Satyam Stella
+Interested In (BHK): 2 BHK
+Budget: 80-1cr Lakh
+Visitor IP: ::1
+Visitor Location: Localhost
+
+)
+
+HTTP Code: 200
+cURL Error: 
+Response: Successful, API mapping is missing
+-------------------------
+2026-01-07 12:27:56
+Payload: Array
+(
+    [first_name] => Sdj
+    [last_name] => test
+    [mobile] => 6742568347
+    [email] => testing@gmail.com
+    [project] => Satyam Seasons
+    [interested_in] => Satyam Seasons
+    [budget] => 80+ Lakh
+    [remark] => Full Name: Sdj test
+Email: testing@gmail.com
+Phone: 6742568347
+Project Selected: Satyam Seasons
+Interested In (BHK): 3 BHK
+Budget: 80+ Lakh
+Visitor IP: ::1
+Visitor Location: Localhost
+
+)
+
+HTTP Code: 200
+cURL Error: 
+Response: Successful, API mapping is missing
+-------------------------
+2026-01-07 12:52:51
+Payload: Array
+(
+    [Requirements] => Full Name: Sdj test
+Email: testing@gmail.com
+Phone: 6742568347
+Project Selected: Satyam Seasons
+Interested In (BHK): 3 BHK
+Budget: 80+ Lakh
+Visitor IP: ::1
+Visitor Location: Localhost
+
+    [InterestedIn] => Satyam Seasons
+    [Email] => testing@gmail.com
+    [Mobile] => 6742568347
+    [Name] => Sdj test
+)
+
+HTTP Code: 200
+cURL Error: 
+Response: Successful, API mapping is missing
+-----------------------------
+2026-01-07 12:53:16
+Payload: Array
+(
+    [Requirements] => Full Name: sj
+Email: test@gmail.com
+Phone: 9112949631
+Project Selected: Satyam Stella
+Interested In (BHK): 3 BHK
+Budget: 80-1cr Lakh
+Visitor IP: ::1
+Visitor Location: Localhost
+
+    [InterestedIn] => Satyam Stella
+    [Email] => test@gmail.com
+    [Mobile] => 9112949631
+    [Name] => sj
+)
+
+HTTP Code: 200
+cURL Error: 
+Response: Successful, API mapping is missing
+-----------------------------
+2026-01-08 06:27:22
+Successful, API mapping is missing
+
+2026-01-08 06:35:16
+Successful, API mapping is missing
+
+2026-01-08 06:53:07
+Successful, API mapping is missing
+
+2026-01-08 08:25:21
+Successful, API mapping is missing
+
+2026-01-08 08:47:59
+Successful
+
+2026-01-08 09:03:10
+HTTP Code: 200
+Response: Successful
+
+2026-01-08 09:49:19
+HTTP Code: 200
+Response: Spam Detected!
+
+2026-01-08 10:10:21
+HTTP Code: 200
+Response: Successful
+
+2026-01-08 10:26:32
+HTTP Code: 200
+Response: Successful
+
+2026-01-08 10:59:41
+HTTP Code: 200
+Response: Successful
+

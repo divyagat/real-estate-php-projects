@@ -1,0 +1,123 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+    background: url('https://images.unsplash.com/photo-1501183638710-841dd1904471')
+                no-repeat center center/cover;
+    position: relative;
+}
+
+/* Dark overlay for readability */
+.overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+    z-index: 1;
+}
+
+.page-wrapper {
+    position: relative;
+    z-index: 2;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-card {
+    width: 100%;
+    max-width: 420px;
+    padding: 35px 30px;
+    border-radius: 16px;
+    background: rgba(255,255,255,0.12);
+    backdrop-filter: blur(12px);
+    box-shadow: 0 25px 60px rgba(0,0,0,0.4);
+    color: #fff;
+}
+
+.form-card h2 {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.sub-text {
+    text-align: center;
+    font-size: 14px;
+    margin-bottom: 25px;
+    opacity: 0.9;
+}
+
+/* Floating label */
+.input-group {
+    position: relative;
+    margin-bottom: 18px;
+}
+
+.input-group input,
+.input-group select {
+    width: 100%;
+    padding: 14px 12px;
+    background: rgba(255,255,255,0.15);
+    border: 1px solid rgba(255,255,255,0.3);
+    border-radius: 8px;
+    color: #fff;
+    outline: none;
+}
+
+.input-group select option {
+    color: #000;
+}
+
+.input-group label {
+    position: absolute;
+    top: 50%;
+    left: 12px;
+    transform: translateY(-50%);
+    font-size: 13px;
+    color: #ddd;
+    pointer-events: none;
+    transition: 0.3s;
+    background: transparent;
+}
+
+.input-group input:focus,
+.input-group select:focus {
+    border-color: #ffb347;
+}
+
+.input-group input:focus + label,
+.input-group input:valid + label,
+.input-group select:focus + label,
+.input-group select:valid + label {
+    top: -8px;
+    font-size: 11px;
+    color: #ffb347;
+}
+
+button {
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(120deg,#ffb347,#ffcc33);
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.95;
+}
+
+/* Mobile */
+@media(max-width:480px){
+    .form-card{
+        margin: 20px;
+        padding: 25px 20px;
+    }
+}

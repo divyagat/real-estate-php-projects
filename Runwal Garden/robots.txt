@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mantrarealtor.com/burgundy-magarpatta-1residences/sitemap.xml

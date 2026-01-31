@@ -1,0 +1,891 @@
+[19-Jun-2024 11:54:44 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[19-Jun-2024 11:54:44 UTC] PHP Warning:  Undefined variable $enq_projectSource in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 30
+[19-Jun-2024 11:54:44 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 50
+[19-Jun-2024 11:54:44 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:50
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(50): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 50
+[19-Jun-2024 11:58:02 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[19-Jun-2024 11:58:02 UTC] PHP Warning:  Undefined variable $enq_projectSource in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 30
+[19-Jun-2024 11:58:02 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 50
+[19-Jun-2024 11:58:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:50
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(50): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 50
+[19-Jun-2024 12:04:35 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[19-Jun-2024 12:04:35 UTC] PHP Warning:  Undefined variable $enq_projectSource in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 30
+[19-Jun-2024 12:04:35 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 50
+[19-Jun-2024 12:04:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:50
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(50): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 50
+[19-Jun-2024 19:04:55 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[19-Jun-2024 19:04:55 UTC] PHP Warning:  Undefined variable $enq_projectSource in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 30
+[19-Jun-2024 19:04:55 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 50
+[19-Jun-2024 19:04:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:50
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(50): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 50
+[20-Jun-2024 07:36:43 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[20-Jun-2024 07:36:43 UTC] PHP Warning:  Undefined variable $enq_projectSource in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 30
+[20-Jun-2024 07:36:43 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 51
+[20-Jun-2024 07:36:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:51
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(51): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 51
+[20-Jun-2024 13:38:46 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[20-Jun-2024 13:38:47 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[20-Jun-2024 13:38:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:52
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(52): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[21-Jun-2024 03:35:49 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[21-Jun-2024 03:35:49 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[21-Jun-2024 03:35:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:52
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(52): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[21-Jun-2024 08:50:16 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[21-Jun-2024 08:50:17 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[21-Jun-2024 08:50:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:52
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(52): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[21-Jun-2024 08:54:59 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[21-Jun-2024 08:55:00 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[21-Jun-2024 08:55:00 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[21-Jun-2024 08:55:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:52
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(52): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[21-Jun-2024 08:55:00 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[21-Jun-2024 08:55:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:52
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(52): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[21-Jun-2024 10:24:44 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[21-Jun-2024 10:24:45 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[21-Jun-2024 10:24:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:52
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(52): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 52
+[22-Jun-2024 07:06:13 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[22-Jun-2024 07:06:14 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[22-Jun-2024 07:06:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[22-Jun-2024 08:13:17 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[22-Jun-2024 08:13:17 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[22-Jun-2024 08:13:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[22-Jun-2024 14:14:08 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[22-Jun-2024 14:14:08 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[22-Jun-2024 14:14:08 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[23-Jun-2024 08:57:54 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[23-Jun-2024 08:57:55 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[23-Jun-2024 08:57:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[23-Jun-2024 09:14:11 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[23-Jun-2024 09:14:12 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[23-Jun-2024 09:14:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[23-Jun-2024 17:38:54 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[23-Jun-2024 17:38:55 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[23-Jun-2024 17:38:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[23-Jun-2024 17:40:19 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[23-Jun-2024 17:40:19 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[23-Jun-2024 17:40:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:54:21 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jun-2024 06:54:21 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jun-2024 06:54:22 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:54:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:54:22 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:54:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:03 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jun-2024 06:56:03 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:03 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:04 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jun-2024 06:56:04 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jun-2024 06:56:04 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:04 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jun-2024 06:56:04 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:04 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jun-2024 06:56:04 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:05 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jun-2024 06:56:05 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:05 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jun-2024 06:56:05 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:05 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jun-2024 06:56:05 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:07 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jun-2024 06:56:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[25-Jun-2024 08:02:00 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[25-Jun-2024 08:02:00 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[25-Jun-2024 08:02:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[25-Jun-2024 10:48:06 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[25-Jun-2024 10:48:07 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[25-Jun-2024 10:48:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[25-Jun-2024 16:37:31 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[25-Jun-2024 16:37:31 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[25-Jun-2024 16:37:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[27-Jun-2024 04:12:35 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[27-Jun-2024 04:12:36 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[27-Jun-2024 04:12:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[27-Jun-2024 08:19:34 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[27-Jun-2024 08:19:36 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[27-Jun-2024 08:19:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[27-Jun-2024 14:27:39 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[27-Jun-2024 14:27:40 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[27-Jun-2024 14:27:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[28-Jun-2024 08:55:07 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[28-Jun-2024 08:55:07 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[28-Jun-2024 08:55:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[29-Jun-2024 08:24:53 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[29-Jun-2024 08:24:54 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[29-Jun-2024 08:24:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[29-Jun-2024 08:25:29 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[29-Jun-2024 08:25:29 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[29-Jun-2024 08:25:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[29-Jun-2024 08:27:58 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[29-Jun-2024 08:27:58 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[29-Jun-2024 08:27:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[30-Jun-2024 12:12:37 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[30-Jun-2024 12:12:38 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[30-Jun-2024 12:12:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[30-Jun-2024 13:23:22 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[30-Jun-2024 13:23:23 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[30-Jun-2024 13:23:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[30-Jun-2024 13:27:02 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[30-Jun-2024 13:27:02 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[30-Jun-2024 13:27:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[30-Jun-2024 19:51:48 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[30-Jun-2024 19:51:48 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[30-Jun-2024 19:51:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[01-Jul-2024 05:51:56 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[01-Jul-2024 05:51:56 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[01-Jul-2024 05:51:56 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[01-Jul-2024 11:59:13 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[01-Jul-2024 11:59:13 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[01-Jul-2024 11:59:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[04-Jul-2024 13:31:56 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[04-Jul-2024 13:31:57 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[04-Jul-2024 13:31:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[04-Jul-2024 13:32:32 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[04-Jul-2024 13:32:33 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[04-Jul-2024 13:32:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 02:14:00 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[05-Jul-2024 02:14:01 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 02:14:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 04:41:23 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[05-Jul-2024 04:41:24 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 04:41:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 04:44:08 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[05-Jul-2024 04:44:09 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 04:44:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 10:56:50 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[05-Jul-2024 10:56:51 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 10:56:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 16:44:39 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[05-Jul-2024 16:44:39 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 16:44:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 16:45:14 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[05-Jul-2024 16:45:14 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[05-Jul-2024 16:45:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[06-Jul-2024 06:02:54 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[06-Jul-2024 06:02:55 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[06-Jul-2024 06:02:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[06-Jul-2024 09:23:34 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[06-Jul-2024 09:23:34 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[06-Jul-2024 09:23:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[06-Jul-2024 11:50:34 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[06-Jul-2024 11:50:34 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[06-Jul-2024 11:50:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[06-Jul-2024 13:57:30 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[06-Jul-2024 13:57:30 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[06-Jul-2024 13:57:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[07-Jul-2024 06:18:22 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[07-Jul-2024 06:18:23 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[07-Jul-2024 06:18:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[07-Jul-2024 18:16:22 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[07-Jul-2024 18:16:23 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[07-Jul-2024 18:16:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[07-Jul-2024 21:45:28 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[07-Jul-2024 21:45:29 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[07-Jul-2024 21:45:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[07-Jul-2024 21:46:41 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[07-Jul-2024 21:46:42 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[07-Jul-2024 21:46:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[09-Jul-2024 16:42:39 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[09-Jul-2024 16:42:39 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[09-Jul-2024 16:42:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[13-Jul-2024 11:23:30 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[13-Jul-2024 11:23:31 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[13-Jul-2024 11:23:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[17-Jul-2024 08:23:44 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[17-Jul-2024 08:23:45 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[17-Jul-2024 08:23:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[17-Jul-2024 11:51:40 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[17-Jul-2024 11:51:41 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[17-Jul-2024 11:51:41 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[19-Jul-2024 07:33:52 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[19-Jul-2024 07:33:52 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[19-Jul-2024 07:33:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[19-Jul-2024 07:39:15 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[19-Jul-2024 07:39:15 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[19-Jul-2024 07:39:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jul-2024 15:34:14 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[24-Jul-2024 15:34:15 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[24-Jul-2024 15:34:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[26-Jul-2024 08:49:17 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 10
+[26-Jul-2024 08:49:17 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[26-Jul-2024 08:49:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/mantra-magarpatta-new-launch/php/mantra.php on line 53
+[06-Oct-2024 06:09:33 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[06-Oct-2024 06:09:34 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[06-Oct-2024 06:09:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[06-Oct-2024 06:22:19 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[06-Oct-2024 06:22:19 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[06-Oct-2024 06:22:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[06-Oct-2024 06:35:35 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[06-Oct-2024 06:35:35 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[06-Oct-2024 06:35:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[06-Oct-2024 06:50:32 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[06-Oct-2024 06:50:33 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[06-Oct-2024 06:50:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[16-Oct-2024 11:41:39 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[16-Oct-2024 11:41:40 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[16-Oct-2024 11:41:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[16-Oct-2024 12:03:27 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[16-Oct-2024 12:03:28 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[16-Oct-2024 12:03:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[16-Oct-2024 12:21:20 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[16-Oct-2024 12:21:21 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[16-Oct-2024 12:21:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[17-Oct-2024 06:01:13 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[17-Oct-2024 06:01:13 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[17-Oct-2024 06:01:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[17-Oct-2024 14:17:45 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[17-Oct-2024 14:17:45 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[17-Oct-2024 14:17:45 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[18-Oct-2024 13:30:29 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[18-Oct-2024 13:30:29 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[18-Oct-2024 13:30:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[22-Oct-2024 06:13:59 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[22-Oct-2024 06:13:59 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[22-Oct-2024 06:13:59 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[22-Oct-2024 08:56:38 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[22-Oct-2024 08:56:38 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[22-Oct-2024 08:56:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[01-Nov-2024 06:28:54 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[01-Nov-2024 06:28:54 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[01-Nov-2024 06:28:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[01-Nov-2024 06:30:02 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[01-Nov-2024 06:30:02 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[01-Nov-2024 06:30:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[02-Nov-2024 05:34:28 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[02-Nov-2024 05:34:28 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[02-Nov-2024 05:34:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[02-Nov-2024 10:42:31 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[02-Nov-2024 10:42:32 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[02-Nov-2024 10:42:32 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[07-Nov-2024 10:00:00 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[07-Nov-2024 10:00:00 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[07-Nov-2024 10:00:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[07-Nov-2024 12:44:33 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[07-Nov-2024 12:44:33 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[07-Nov-2024 12:44:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[07-Nov-2024 23:12:27 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[07-Nov-2024 23:12:27 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[07-Nov-2024 23:12:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Nov-2024 08:26:32 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Nov-2024 08:26:32 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Nov-2024 08:26:33 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Nov-2024 08:26:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Nov-2024 08:26:33 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Nov-2024 08:26:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Nov-2024 17:29:48 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Nov-2024 17:29:49 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Nov-2024 17:29:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[14-Nov-2024 10:06:15 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[14-Nov-2024 10:06:15 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[14-Nov-2024 10:06:15 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[18-Nov-2024 10:50:34 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[18-Nov-2024 10:50:34 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[18-Nov-2024 10:50:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[22-Nov-2024 07:39:00 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[22-Nov-2024 07:39:01 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[22-Nov-2024 07:39:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[27-Nov-2024 00:24:34 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[27-Nov-2024 00:24:34 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[27-Nov-2024 00:24:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[29-Nov-2024 10:24:29 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[29-Nov-2024 10:24:29 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[29-Nov-2024 10:24:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[08-Dec-2024 06:45:09 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[08-Dec-2024 06:45:09 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[08-Dec-2024 06:45:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[08-Dec-2024 11:53:20 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[08-Dec-2024 11:53:20 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[08-Dec-2024 11:53:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[08-Dec-2024 11:54:37 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[08-Dec-2024 11:54:37 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[08-Dec-2024 11:54:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[10-Dec-2024 06:45:03 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[10-Dec-2024 06:45:04 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[10-Dec-2024 06:45:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[10-Dec-2024 09:39:55 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[10-Dec-2024 09:39:56 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[10-Dec-2024 09:39:56 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Dec-2024 03:03:43 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Dec-2024 03:03:43 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Dec-2024 03:03:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Dec-2024 03:04:10 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Dec-2024 03:04:10 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Dec-2024 03:04:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[28-Dec-2024 01:31:39 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[28-Dec-2024 01:31:39 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[28-Dec-2024 01:31:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[02-Jan-2025 15:00:20 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[02-Jan-2025 15:00:21 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[02-Jan-2025 15:00:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[05-Jan-2025 14:46:47 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[05-Jan-2025 14:46:47 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[05-Jan-2025 14:46:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:53
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(53): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 53
+[12-Jan-2025 14:36:18 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Jan-2025 14:36:18 UTC] PHP Warning:  Undefined array key "visitor_ip" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 16
+[12-Jan-2025 14:36:19 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[12-Jan-2025 14:36:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:55
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(55): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[12-Jan-2025 14:39:00 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Jan-2025 14:39:00 UTC] PHP Warning:  Undefined array key "visitor_ip" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 16
+[12-Jan-2025 14:39:00 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[12-Jan-2025 14:39:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:55
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(55): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[12-Jan-2025 14:39:01 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Jan-2025 14:39:01 UTC] PHP Warning:  Undefined array key "visitor_ip" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 16
+[12-Jan-2025 14:39:01 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[12-Jan-2025 14:39:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:55
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(55): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[19-Jan-2025 09:11:04 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[19-Jan-2025 09:11:04 UTC] PHP Warning:  Undefined array key "visitor_ip" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 16
+[19-Jan-2025 09:11:04 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[19-Jan-2025 09:11:04 UTC] PHP Warning:  Undefined array key "visitor_ip" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 16
+[19-Jan-2025 09:11:04 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[19-Jan-2025 09:11:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:55
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(55): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[19-Jan-2025 09:11:04 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[19-Jan-2025 09:11:04 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:55
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(55): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[19-Jan-2025 17:57:41 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[19-Jan-2025 17:57:41 UTC] PHP Warning:  Undefined array key "visitor_ip" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 16
+[19-Jan-2025 17:57:41 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[19-Jan-2025 17:57:41 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:55
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(55): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[24-Jan-2025 16:09:48 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[24-Jan-2025 16:09:48 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[24-Jan-2025 16:09:48 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:55
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(55): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[31-Jan-2025 10:25:39 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[31-Jan-2025 10:25:39 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[31-Jan-2025 10:25:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:55
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(55): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[01-Feb-2025 08:51:01 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[01-Feb-2025 08:51:01 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[01-Feb-2025 08:51:01 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:55
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(55): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[05-Feb-2025 07:31:39 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[05-Feb-2025 07:31:40 UTC] PHP Warning:  Undefined variable $conn in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[05-Feb-2025 07:31:40 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_close(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php:55
+Stack trace:
+#0 /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php(55): mysqli_close(NULL)
+#1 {main}
+  thrown in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 55
+[07-Feb-2025 13:03:58 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[07-Feb-2025 13:03:58 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[07-Feb-2025 13:03:58 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[07-Feb-2025 13:12:27 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[07-Feb-2025 13:12:27 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[07-Feb-2025 13:12:27 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[09-Feb-2025 04:56:04 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[09-Feb-2025 04:56:04 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[09-Feb-2025 04:56:04 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[12-Feb-2025 05:23:07 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Feb-2025 05:23:07 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[12-Feb-2025 05:23:07 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[12-Feb-2025 05:23:08 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Feb-2025 05:23:08 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[12-Feb-2025 05:23:08 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[12-Feb-2025 05:23:09 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[12-Feb-2025 05:23:09 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[12-Feb-2025 05:23:09 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[13-Feb-2025 06:00:50 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[13-Feb-2025 06:00:50 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[13-Feb-2025 06:00:50 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[13-Feb-2025 07:42:56 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[13-Feb-2025 07:42:56 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[13-Feb-2025 07:42:56 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[14-Feb-2025 10:18:26 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[14-Feb-2025 10:18:26 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[14-Feb-2025 10:18:26 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[14-Feb-2025 10:19:51 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[14-Feb-2025 10:19:51 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[14-Feb-2025 10:19:51 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[14-Feb-2025 10:19:51 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[14-Feb-2025 10:19:51 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[14-Feb-2025 10:19:51 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[18-Feb-2025 08:41:54 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[18-Feb-2025 08:41:54 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[18-Feb-2025 08:41:54 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[18-Feb-2025 08:42:52 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[18-Feb-2025 08:42:52 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[18-Feb-2025 08:42:52 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[18-Feb-2025 13:46:17 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[18-Feb-2025 13:46:17 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[18-Feb-2025 13:46:17 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[19-Feb-2025 02:56:08 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[19-Feb-2025 02:56:08 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[19-Feb-2025 02:56:08 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[21-Feb-2025 21:36:40 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[21-Feb-2025 21:36:40 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[21-Feb-2025 21:36:40 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[22-Feb-2025 06:10:10 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[22-Feb-2025 06:10:10 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[22-Feb-2025 06:10:10 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[22-Feb-2025 06:10:11 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[22-Feb-2025 06:10:11 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[22-Feb-2025 06:10:11 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[22-Feb-2025 11:50:15 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[22-Feb-2025 11:50:15 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[22-Feb-2025 11:50:15 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[23-Feb-2025 11:59:08 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[23-Feb-2025 11:59:08 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[23-Feb-2025 11:59:08 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[23-Feb-2025 18:09:24 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[23-Feb-2025 18:09:24 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[23-Feb-2025 18:09:24 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[27-Feb-2025 09:19:22 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[27-Feb-2025 09:19:22 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[27-Feb-2025 09:19:22 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[02-Mar-2025 15:55:42 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[02-Mar-2025 15:55:42 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[02-Mar-2025 15:55:42 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[02-Mar-2025 15:56:50 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[02-Mar-2025 15:56:50 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[02-Mar-2025 15:56:50 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[05-Mar-2025 09:10:07 UTC] PHP Warning:  Undefined array key "message" in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 10
+[05-Mar-2025 09:10:07 UTC] PHP Warning:  Undefined variable $type in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
+[05-Mar-2025 09:10:07 UTC] PHP Warning:  Undefined variable $account in /home4/associbk/mantrarealtor.com/burgundy-magarpatta-1residences/php/mantra.php on line 21
