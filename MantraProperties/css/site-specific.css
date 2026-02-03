@@ -1,0 +1,22 @@
+/* CSS Document */
+/*
+Theme Name: Godrej Theme | Site Specific Css
+Theme URI: #
+Author: Madison
+Author URI: #
+/*--------------------------------------------------------------
+# 
+--------------------------------------------------------------*/
+.innerpage-ban-heading span {
+    display: block;
+    font-size: 40px;
+}
+
+
+.three-column {
+    columns: 3;
+}
+
+.block-overlap ul li:not(:last-child) {
+    margin: 0 0 5px;
+}
