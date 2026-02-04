@@ -1,0 +1,20 @@
+[2026-02-04 11:06:36] [CRM_SUBMISSION_ATTEMPT] IP:::1 | Data:{"type":"form","project":"Plots Green Acres","name":"D**** Gate","mobile":"+919****49631","source_id":"1386","ip":"::1"}
+[2026-02-04 11:06:36] [CRM_SUBMISSION_SUCCESS] IP:::1 | Data:{"type":"form","project":"Plots Green Acres","http_code":200,"crm_success":true,"crm_message":"Lead submitted successfully"}
+[2026-02-04 11:07:58] [CRM_SUBMISSION_ATTEMPT] IP:::1 | Data:{"type":"chatbot","project":"Plots Properties Portfolio","name":"D****","mobile":"+919****99981","source_id":"1386","ip":"::1"}
+[2026-02-04 11:07:58] [CRM_SUBMISSION_SUCCESS] IP:::1 | Data:{"type":"chatbot","project":"Plots Properties Portfolio","http_code":200,"crm_success":true,"crm_message":"Lead submitted successfully"}
+[2026-02-04 11:08:42] [CRM_SUBMISSION_ATTEMPT] IP:::1 | Data:{"type":"form","project":"Plots Riverside","name":"D**** Gate","mobile":"+919****99981","source_id":"1386","ip":"::1"}
+[2026-02-04 11:08:42] [CRM_SUBMISSION_SUCCESS] IP:::1 | Data:{"type":"form","project":"Plots Riverside","http_code":200,"crm_success":true,"crm_message":"Lead submitted successfully"}
+[2026-02-04 11:14:48] [CRM_SUBMISSION_ATTEMPT] IP:::1 | Data:{"type":"form","project":"Plots Green Acres","name":"D**** test form","mobile":"+919****99981","source_id":"1386","ip":"::1"}
+[2026-02-04 11:14:49] [CRM_SUBMISSION_SUCCESS] IP:::1 | Data:{"type":"form","project":"Plots Green Acres","http_code":200,"crm_success":true,"crm_message":"Lead submitted successfully"}
+[2026-02-04 11:15:29] [CRM_SUBMISSION_ATTEMPT] IP:::1 | Data:{"type":"chatbot","project":"Plots Properties Portfolio","name":"D**","mobile":"+919****99981","source_id":"1386","ip":"::1"}
+[2026-02-04 11:15:29] [CRM_SUBMISSION_SUCCESS] IP:::1 | Data:{"type":"chatbot","project":"Plots Properties Portfolio","http_code":200,"crm_success":true,"crm_message":"Lead submitted successfully"}
+[2026-02-04 11:40:00] [CRM_SUBMISSION_ATTEMPT] IP:::1 | Data:{"type":"form","project":"Plots Riverside","name":"D**** Gate","mobile":"+919****99981","source_id":"1386","ip":"::1"}
+[2026-02-04 11:40:00] [CRM_SUBMISSION_SUCCESS] IP:::1 | Data:{"type":"form","project":"Plots Riverside","http_code":200,"crm_success":true,"crm_message":"Lead submitted successfully"}
+[2026-02-04 11:40:44] [CRM_SUBMISSION_ATTEMPT] IP:::1 | Data:{"type":"chatbot","project":"Plots Properties Portfolio","name":"d**","mobile":"+919****99981","source_id":"1386","ip":"::1"}
+[2026-02-04 11:40:44] [CRM_SUBMISSION_SUCCESS] IP:::1 | Data:{"type":"chatbot","project":"Plots Properties Portfolio","http_code":200,"crm_success":true,"crm_message":"Lead submitted successfully"}
+[2026-02-04 12:16:53] [CRM_SUBMISSION_ATTEMPT] IP:::1 | Data:{"type":"form","project":"Plots Green Acres","name":"D**** test form","mobile":"+919****99981","source_id":"1386","ip":"::1"}
+[2026-02-04 12:16:54] [CRM_SUBMISSION_SUCCESS] IP:::1 | Data:{"type":"form","project":"Plots Green Acres","http_code":200,"crm_success":true,"crm_message":"Lead submitted successfully"}
+[2026-02-04 12:18:00] [CRM_SUBMISSION_ATTEMPT] IP:::1 | Data:{"type":"chatbot","project":"Plots Properties Portfolio","name":"d**","mobile":"+919****99981","source_id":"1386","ip":"::1"}
+[2026-02-04 12:18:00] [CRM_SUBMISSION_SUCCESS] IP:::1 | Data:{"type":"chatbot","project":"Plots Properties Portfolio","http_code":200,"crm_success":true,"crm_message":"Lead submitted successfully"}
+[2026-02-04 12:24:38] [CRM_SUBMISSION_ATTEMPT] IP:::1 | Data:{"type":"form","project":"Plots Riverside","name":"D**** test","mobile":"+919****99981","source_id":"1386","ip":"::1"}
+[2026-02-04 12:24:39] [CRM_SUBMISSION_SUCCESS] IP:::1 | Data:{"type":"form","project":"Plots Riverside","http_code":200,"crm_success":true,"crm_message":"Lead submitted successfully"}

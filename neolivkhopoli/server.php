@@ -23,7 +23,6 @@ function chatbot_getLocation($ip) {
         return 'Localhost';
     }
 
-    // ✅ FIXED: Removed extra spaces in URL
     $url = "https://ipapi.co/{$ip}/json/";
     $ch = curl_init($url);
     curl_setopt_array($ch, [
@@ -47,22 +46,38 @@ function chatbot_getLocation($ip) {
     return 'Unknown';
 }
 
-// ---- Build chatbot remark ----
+// ---- Build remark based on source (Chatbot vs Form) ----
 function chatbot_buildRemark($projectAddress) {
     $ip       = chatbot_getUserIP();
     $location = chatbot_getLocation($ip);
 
-    $chat_option = trim($_POST['chat_option'] ?? 'Not specified');
-    $message     = trim($_POST['message'] ?? 'Not specified');
-    $form_name   = trim($_POST['form_name'] ?? 'Chatbot');
-
-    return "Source: Website Chatbot (Riya Assistant)\n"
-         . "Project: {$projectAddress}\n"
-         . "Visitor IP: {$ip}\n"
-         . "Lead Location: {$location}\n"
-         . "Requested Info: {$chat_option}\n"
-         . "Message: {$message}\n"
-         . "Form Type: {$form_name}";
+    // Check if it's from Chatbot or Form
+    $isChatbot = isset($_POST['form_name']) && $_POST['form_name'] === 'Chatbot Inquiry';
+    
+    if ($isChatbot) {
+        // === CHATBOT SUBMISSION ===
+        $chat_option = trim($_POST['chat_option'] ?? 'Not specified');
+        $message     = trim($_POST['message'] ?? 'Not specified');
+        
+        return "Source: Chatbot (Riya Assistant)\n"
+             . "Project: {$projectAddress}\n"
+             . "Visitor IP: {$ip}\n"
+             . "Lead Location: {$location}\n"
+             . "Requested Info: {$chat_option}\n"
+             . "Message: {$message}\n"
+             . "Form Type: Chatbot";
+    } else {
+        // === REGULAR FORM SUBMISSION ===
+        $form_source = trim($_POST['form_source'] ?? 'Website Form');
+        $message     = trim($_POST['message'] ?? 'Not specified');
+        
+        return "Source: Website Form\n"
+             . "Project: {$projectAddress}\n"
+             . "Visitor IP: {$ip}\n"
+             . "Lead Location: {$location}\n"
+             . "Form Name: {$form_source}\n"
+             . "Message: {$message}";
+    }
 }
 
 // === Extract & sanitize form data ===
@@ -88,8 +103,7 @@ $payload = [
 ];
 
 // === Send to CRM ===
-// ✅ FIXED: Removed trailing space
-$webhook_url = "https://connector.b2bbricks.com/api/Integration/hook/b143a689-35da-4e17-8dc6-b78be996295e";
+$webhook_url = "https://connector.b2bbricks.com/api/Integration/hook/bba7baab-fbac-4355-9402-3eda71abb1a7";
 $ch = curl_init($webhook_url);
 curl_setopt_array($ch, [
     CURLOPT_POST           => true,
